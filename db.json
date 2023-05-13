@@ -1,0 +1,61 @@
+{
+  "user": [
+    {},
+    {
+      "id": "man",
+      "name": "man vo 123",
+      "password": "123",
+      "email": "man@man.com",
+      "phone": "1234 789",
+      "country": "usa",
+      "address": "man address",
+      "gender": "female"
+    },
+    {
+      "id": "aaa",
+      "name": "aa",
+      "password": "a",
+      "email": "a@a.com",
+      "phone": "123",
+      "country": "singapore",
+      "address": "aa",
+      "gender": "female"
+    },
+    {
+      "id": "b",
+      "name": "Nguyen Van B",
+      "password": "b",
+      "email": "b@test.com",
+      "phone": "bb123",
+      "country": "vietnam",
+      "address": "bb address",
+      "gender": "female"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Fantastic Wooden Chicken",
+      "price": 445,
+      "image": "http://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 2,
+      "name": "Unbranded Wooden Keyboard",
+      "price": 698,
+      "image": "http://placeimg.com/640/480/cats"
+    },
+    {
+      "id": 3,
+      "name": "Incredible Metal Computer",
+      "price": 712,
+      "image": "http://placeimg.com/640/480/transport"
+    },
+    {
+      "id": 4,
+      "name": "Tasty Soft Chair",
+      "price": 201,
+      "image": "http://placeimg.com/640/480/abstract"
+    }
+  ]
+}
